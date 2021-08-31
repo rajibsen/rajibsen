@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @rajibsen
-- 👀 I’m interested in ... Software Architecture 
-- 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on Social Networking Platfrom  
+Hi there, I'm Rajib Sen, with a Master Degree in Computer Science & Engireering ( SUST 🏫 ) and I am a Full Stack Software Developer 🚀.
+
+Talking about Personal Stuffs:
+
+    🌱 I’m currently learning Go
+    👯 I’m looking to collaborate on React.js, Flutter
+    🤔 I’m looking for help with Flutter, React.js, JavaEE
+    💬 Ask me about anything, I am happy to help;
+    😄 Pronouns: ... He / Him
+    ⚡ Fun fact: ... I love learning new things 
+ 
 - 📫 How to reach me : +8801717130038 (whatsapp)
 
 <!---
